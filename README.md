@@ -18,3 +18,4 @@
 - Failed Sudo attempt loops into function
 - Library info should be at left of progress bar
 - inverted download speed display, larger numbers result slower speeds
+- Threading for download progresss
